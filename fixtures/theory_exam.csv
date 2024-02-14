@@ -1,99 +1,99 @@
-"ExamID","Student.ID","Student.First Name","Student.Last Name","Math Exam","Seniortiy Description","Major"
-"MAT_1","O69K36F35N","Refat","Natali",71,"Freshman","Civil Engineering"
-"MAT_2","S67Y79P97N","Ariana","Kim",58,"Sophmore","Civil Engineering"
-"MAT_3","N95Q83K66L","Inga","Bego",88,"Senior","Chemical Engineering"
-"MAT_4","F23F98R36E","Alush","Bauyrzhan",69,"Sophmore","Computer Science"
-"MAT_5","X84A95B48H","Luo+Ping","Palbo",73,"Sophmore","Civil Engineering"
-"MAT_6","B88W98U98H","Dang","Hansine",35,"Freshman","Mechanical Engineering"
-"MAT_7","N11E77H23W","Sana","Shu Zhe",27,"Freshman","Mechanical Engineering"
-"MAT_8","T99V54P45S","Primiano","Patricio",50,"Senior","Biology"
-"MAT_9","L76U91Q56O","Eskarn","Ozren",39,"Freshman","Biology"
-"MAT_10","N95K98P24K","Friedlind","Snævar",92,"Sophmore","Environmental Science"
-"MAT_11","L39J89K80A","Silvie","Kalo",34,"Freshman","Mathematics"
-"MAT_12","U30F35G12E","Chuan Yu","Impress",61,"Sophmore","Mechanical Engineering"
-"MAT_13","O81P95Z33D","Boyka","Ted",18,"Freshman","Computer Science"
-"MAT_14","O44Y33W72F","MeiChi","Ming Qiang",61,"Freshman","Chemical Engineering"
-"MAT_15","L75Y10U21O","Laci","Alastair",26,"Senior","Mathematics"
-"MAT_16","N41U97V40B","Folmine","Tei",66,"Freshman","Physics"
-"MAT_17","A88D98J23Z","Heije","Tian+Bao",83,"Freshman","Civil Engineering"
-"MAT_18","X15R75W15M","Jocelin","Teo",56,"Sophmore","Civil Engineering"
-"MAT_19","A32J48B87E","Adolphe","Boriss",35,"Senior","Chemical Engineering"
-"MAT_20","G22T75G72T","Amitava","Quang",68,"Sophmore","Biology"
-"MAT_21","X66T37Y38A","Kun+Lin","Randi",86,"Freshman","Physics"
-"MAT_22","S11F12B48D","Makhmud","Simbad",65,"Sophmore","Physics"
-"MAT_23","H52N33P76Z","Ihno","Ekke",97,"Freshman","Physics"
-"MAT_24","Y64Z79C83L","Ai+Wei","Musli",65,"Senior","Civil Engineering"
-"MAT_25","C59Q96J74F","Christward","Dorel",54,"Senior","Mechanical Engineering"
-"MAT_26","C62O81D11Y","Eward","Smaragda",55,"Freshman","Computer Science"
-"MAT_27","N80M43W32B","Rowdy","Jin+Cun",28,"Freshman","Chemical Engineering"
-"MAT_28","S85H92U16R","Marilee","Noemi",87,"Sophmore","Biochemistry"
-"MAT_29","M61K98C62H","Lupita","Rui+Chun",58,"Freshman","Biology"
-"MAT_30","V97J99X31P","Sibe","Alptu",39,"Sophmore","Mathematics"
-"MAT_31","Y68K44O33E","Danielle","Fawzi",12,"Freshman","Environmental Science"
-"MAT_32","T23W58G70E","Stefanino","Chedva",60,"Senior","Environmental Science"
-"MAT_33","K50V21E10E","Elmars","Nidaa",86,"Freshman","Mathematics"
-"MAT_34","G49U46T66D","Carmena","Hew",24,"Freshman","Physics"
-"MAT_35","E34U91R39W","Mitit","Friedo",78,"Sophmore","Mathematics"
-"MAT_36","A38U71K78K","Lene","Kam Ming",32,"Freshman","Chemical Engineering"
-"MAT_37","K33F51P59O","Bengusu","Maral",46,"Senior","Computer Science"
-"MAT_38","N46D16J18G","Henriane","Magomed",32,"Sophmore","Chemical Engineering"
-"MAT_39","Z75S49G13B","Nadhim","Florenzo",19,"Freshman","Chemical Engineering"
-"MAT_40","K42B47E15J","Su Chen","Elve",7,"Freshman","Electrical Engineering"
-"MAT_41","K71W26G93K","Gocha","Neliha",91,"Senior","Electrical Engineering"
-"MAT_42","T59B12O88F","Bardha","Sivananthan",25,"Sophmore","Civil Engineering"
-"MAT_43","Q18O55Q96V","Aldi","Katrina",19,"Freshman","Environmental Science"
-"MAT_44","Y86O13W75T","Reelika","Aljoscha",35,"Freshman","Environmental Science"
-"MAT_45","X25F16F10D","Alya","Gert",91,"Sophmore","Physics"
-"MAT_46","L69B86K78X","Engelberta","Artan",60,"Sophmore","Mechanical Engineering"
-"MAT_47","E39H97B79U","Kyung+Ja","Ritsa",49,"Sophmore","Biology"
-"MAT_48","Z19Q55R87P","Cristóvão","Adolf",16,"Freshman","Mathematics"
-"MAT_49","C41L29D24E","Maksym","Alexe",94,"Freshman","Biochemistry"
-"MAT_50","R74V21Y94X","Mamta","Birtha",24,"Freshman","Electrical Engineering"
-"MAT_51","D80G71U81E","Qu","Franka",10,"Sophmore","Chemical Engineering"
-"MAT_52","T73K40M57H","Santino","Jennita",55,"Freshman","Environmental Science"
-"MAT_53","H81O65A56M","Muhterem","Qing Jian",36,"Senior","Computer Science"
-"MAT_54","C55S29L24Z","Quintus","Ignaz",65,"Sophmore","Mechanical Engineering"
-"MAT_55","X80M28O77L","Octaviean","Sheval",13,"Senior","Chemical Engineering"
-"MAT_56","S72O94F66J","Biggi","Hafren",77,"Sophmore","Computer Science"
-"MAT_57","Y94W38N25J","Dong+Hwa","Beschir",70,"Senior","Electrical Engineering"
-"MAT_58","A30W79B50M","Alexandros","Malakeh",40,"Senior","Biology"
-"MAT_59","P58R19S32U","Pei+Ming","Tian+Tian",43,"Senior","Mechanical Engineering"
-"MAT_60","M19B87Z20V","Durk","Mariliza",92,"Freshman","Chemical Engineering"
-"MAT_61","Z84Y31Z35Q","Eunice","So Hwan",99,"Sophmore","Mathematics"
-"MAT_62","E71P34J57U","Edelmut","Bobi",42,"Freshman","Chemical Engineering"
-"MAT_63","U96B32G10C","Petja","Cesar",22,"Sophmore","Biology"
-"MAT_64","J85O89G46H","Fachtna","Seo",6,"Freshman","Mechanical Engineering"
-"MAT_65","F29F90D95Y","Fiorelo","Antu",63,"Sophmore","Chemical Engineering"
-"MAT_66","P42Z82R30J","Trea","Silvestre",21,"Sophmore","Biochemistry"
-"MAT_67","L13K89E13M","Arnhold","Maisy",28,"Freshman","Civil Engineering"
-"MAT_68","O43D42W31Y","Tifanie","Samira",13,"Freshman","Physics"
-"MAT_69","Z97G71Y84S","Shi+Liang","Magnþóra",2,"Sophmore","Biochemistry"
-"MAT_70","C68J19X65S","Ceca","Adama",77,"Senior","Biochemistry"
-"MAT_71","E24X91N73C","Soumia","Gligorije",72,"Senior","Environmental Science"
-"MAT_72","F24U56Y56Y","Chien+Min","Irfan",6,"Freshman","Biology"
-"MAT_73","S34B64X40R","Margeir","Smajo",92,"Senior","Environmental Science"
-"MAT_74","Q22Z40C47T","Poseidon","Stojko",50,"Senior","Biology"
-"MAT_75","C12H55W58M","Dico","Aty",56,"Sophmore","Computer Science"
-"MAT_76","A23J68Q95Z","Asel","Kaden",90,"Senior","Mathematics"
-"MAT_77","E99W73Y46N","Thelma","Dan+Ling",47,"Senior","Biochemistry"
-"MAT_78","N16E91G49J","Alysa","Carline",63,"Senior","Chemical Engineering"
-"MAT_79","G38B13O78Q","Leri","Halida",90,"Sophmore","Chemical Engineering"
-"MAT_80","K87X34O34F","Kati","Gerd",99,"Sophmore","Mechanical Engineering"
-"MAT_81","V95B90D13H","Song Yu","Redon",8,"Sophmore","Physics"
-"MAT_82","N48U80S91K","Guilain","Hlver",53,"Freshman","Mathematics"
-"MAT_83","W83C28W43D","Li Xia","Alexina",57,"Freshman","Biology"
-"MAT_84","Z77O99Y48B","Valdemara","Anicette",22,"Freshman","Computer Science"
-"MAT_85","Y49Y11T74M","Tsubasa","Erbil",61,"Freshman","Physics"
-"MAT_86","Z24D47P30W","Kenen","Lina",61,"Sophmore","Biology"
-"MAT_87","E26O94Y41U","Ming+Tao","Roelofke",33,"Sophmore","Biology"
-"MAT_88","F74B39J14J","Feras","Niv",71,"Senior","Civil Engineering"
-"MAT_89","U43X69O71Q","Ína","Amédé",2,"Freshman","Mathematics"
-"MAT_90","A26D49U61M","Boshko","Balduino",10,"Sophmore","Computer Science"
-"MAT_91","P33F76U19D","Stina","Everbert",79,"Sophmore","Mechanical Engineering"
-"MAT_92","T79Z89V20O","Gwerfyl","Rami",78,"Senior","Mathematics"
-"MAT_93","V56E38U67E","Doritta","Dorra",28,"Sophmore","Biochemistry"
-"MAT_94","V42V13R33C","Trini","Dong Keun",39,"Senior","Civil Engineering"
-"MAT_95","A40E12X76K","Lovise","Ji+Kui",42,"Sophmore","Computer Science"
-"MAT_96","F96U81D87W","Ishilde","Jalde",82,"Freshman","Civil Engineering"
-"MAT_97","G16E29S55N","Joselyne","Godi",74,"Freshman","Biochemistry"
-"MAT_98","D34Q23Q41L","Lyndi","Muamir",47,"Sophmore","Biology"
+"Student.ID","score"
+"O69K36F35N",71
+"S67Y79P97N",58
+"N95Q83K66L",88
+"F23F98R36E",69
+"X84A95B48H",73
+"B88W98U98H",35
+"N11E77H23W",27
+"T99V54P45S",50
+"L76U91Q56O",39
+"N95K98P24K",92
+"L39J89K80A",34
+"U30F35G12E",61
+"O81P95Z33D",18
+"O44Y33W72F",61
+"L75Y10U21O",26
+"N41U97V40B",66
+"A88D98J23Z",83
+"X15R75W15M",56
+"A32J48B87E",35
+"G22T75G72T",68
+"X66T37Y38A",86
+"S11F12B48D",65
+"H52N33P76Z",97
+"Y64Z79C83L",65
+"C59Q96J74F",54
+"C62O81D11Y",55
+"N80M43W32B",28
+"S85H92U16R",87
+"M61K98C62H",58
+"V97J99X31P",39
+"Y68K44O33E",12
+"T23W58G70E",60
+"K50V21E10E",86
+"G49U46T66D",24
+"E34U91R39W",78
+"A38U71K78K",32
+"K33F51P59O",46
+"N46D16J18G",32
+"Z75S49G13B",19
+"K42B47E15J",7
+"K71W26G93K",91
+"T59B12O88F",25
+"Q18O55Q96V",19
+"Y86O13W75T",35
+"X25F16F10D",91
+"L69B86K78X",60
+"E39H97B79U",49
+"Z19Q55R87P",16
+"C41L29D24E",94
+"R74V21Y94X",24
+"D80G71U81E",10
+"T73K40M57H",55
+"H81O65A56M",36
+"C55S29L24Z",65
+"X80M28O77L",13
+"S72O94F66J",77
+"Y94W38N25J",70
+"A30W79B50M",40
+"P58R19S32U",43
+"M19B87Z20V",92
+"Z84Y31Z35Q",99
+"E71P34J57U",42
+"U96B32G10C",22
+"J85O89G46H",6
+"F29F90D95Y",63
+"P42Z82R30J",21
+"L13K89E13M",28
+"O43D42W31Y",13
+"Z97G71Y84S",2
+"C68J19X65S",77
+"E24X91N73C",72
+"F24U56Y56Y",6
+"S34B64X40R",92
+"Q22Z40C47T",50
+"C12H55W58M",56
+"A23J68Q95Z",90
+"E99W73Y46N",47
+"N16E91G49J",63
+"G38B13O78Q",90
+"K87X34O34F",99
+"V95B90D13H",8
+"N48U80S91K",53
+"W83C28W43D",57
+"Z77O99Y48B",22
+"Y49Y11T74M",61
+"Z24D47P30W",61
+"E26O94Y41U",33
+"F74B39J14J",71
+"U43X69O71Q",2
+"A26D49U61M",10
+"P33F76U19D",79
+"T79Z89V20O",78
+"V56E38U67E",28
+"V42V13R33C",39
+"A40E12X76K",42
+"F96U81D87W",82
+"G16E29S55N",74
+"D34Q23Q41L",47

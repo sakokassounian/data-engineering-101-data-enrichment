@@ -8,6 +8,9 @@ Created on Mon Feb  5 21:03:13 2024
 
 """
 import re
+import pandas as pd
+from dateutil import parser as date_parser
+import re
 
 
 def text_cleaner(val_str, 
@@ -72,3 +75,136 @@ def text_cleaner(val_str,
     
     return val_str_clean 
     
+
+def format_memory_size(memory_bytes):
+    if memory_bytes < 1024:
+        return f"{memory_bytes} B"
+    elif memory_bytes < 1024**2:
+        return f"{memory_bytes / 1024:.2f} KB"
+    elif memory_bytes < 1024**3:
+        return f"{memory_bytes / (1024**2):.2f} MB"
+    else:
+        return f"{memory_bytes / (1024**3):.2f} GB"
+
+
+
+def optimize_dataframe(df, 
+                        pre_clean_str='.',
+                        date_delimter='-',
+                        id_prefix="",
+                        id_suffix=""):
+    """
+    This function cleans a database to it's optimal datatype and tries to
+    parse dates. You can retrun the metadata or simply the clean dataframe. 
+
+    Parameters
+    ----------
+    df : Pandas DataFrame
+        The dataframe to be cleaned.
+    pre_clean_str : str, optional
+        A string that contains different character. If you want to do a pre-clean
+        to replace specific characters with and "_". The process of the cleaning
+        is based on removing all the special characters. 
+        Example: "NAME.first" becomes "namefirst", but if you keep the value
+        to ".", it becomes "name_first". The default is '.'.
+
+    date_delimter : str, optional
+        This value is replaced with the special characters if the columns types
+        is detected to be a date. This improves the date parsing. The default is '-'.
+    id_prefix : str, optional
+        Add a prefix to the ID column values. The default is "".
+    id_suffix : TYPE, optional
+        Add a suffix to the ID column valies. The default is "".
+
+    Returns
+    -------
+    dict
+        Contains the database and its metadata.
+    """
+
+    
+    convertion_types = ['bytes',
+                     'floating',
+                     'integer',
+                     'mixed-integer',
+                     'mixed-integer-float',
+                     'decimal',
+                     'complex',
+                     'categorical',
+                     'boolean',
+                     'datetime64',
+                     'datetime',
+                     'date',
+                     'timedelta64',
+                     'timedelta',
+                     'time',
+                     'period',
+                     'mixed']
+    
+
+    df_use = df.copy().convert_dtypes()
+    
+    
+    # Now we will analyze the data     
+    database_meta = {'col_name':[],'clean_col_name':[],"col_type":[]} 
+    for col_name,col_type in df_use.dtypes.astype(str).to_dict().items():
+        
+        optimal_type = col_type
+        
+        if optimal_type =='string':
+            
+            # Maybe it's mixed of numbers and strings 
+            col_temp = pd.Series(df_use[col_name].unique())
+            col_temp = col_temp.apply(pd.to_numeric,errors='coerce').fillna(col_temp)
+            
+            # Extract after convertig numerical
+            analysis_type = pd.api.types.infer_dtype(col_temp)
+            
+            # This activates if the type changes
+            if analysis_type in convertion_types: 
+                optimal_type = analysis_type
+                
+            else: 
+                try:
+                    # Let's parse dates
+                    df_use[col_name].dropna().sample(10).\
+                            apply(lambda x : text_cleaner(x,
+                                                          digit_replacement=False,     
+                                                          character_replacer=date_delimter)).apply(date_parser.parse)   
+                    optimal_type = 'datetime'
+                    
+                except: 
+                    pass
+        
+        # store the information         
+        database_meta['col_type'].append(optimal_type)
+        database_meta["col_name"].append(col_name)
+        database_meta["clean_col_name"].append(text_cleaner(col_name,pre_replacements=pre_clean_str))
+    
+    # now we will convert the datetypes into date format    
+    """If there is format error, we'll be able to detect it here"""
+    for col_name,col_type in zip(database_meta['col_name'],database_meta['col_type']):
+        if col_type =='datetime':
+            df_use[col_name] = df_use[col_name].apply(lambda x : text_cleaner(x,
+                                                    digit_replacement=False,     
+                                                    character_replacer=date_delimter)).apply(date_parser.parse)  
+    
+    
+            
+    # Rename database: As the renaming is the last step duplicate columns will not cause issues.
+    df_use = df_use.rename({i:j for i,j in zip(database_meta["col_name"],database_meta["clean_col_name"])},axis=1)        
+    
+    
+    # Add unique id
+    if id_prefix: id_prefix = id_prefix+"_"
+    if id_suffix: id_prefix = "_"+id_suffix
+    
+    
+    max_num = df_use.shape[0]
+    max_digit_size = len(str(max_num))
+    number_list = [str(num).zfill(max_digit_size) for num in range(1, max_num+1)]
+    df_use['db_ID'] = [f"{id_prefix}{i}{id_suffix}" for i in number_list]
+        
+    
+
+    return  {"db":df_use, "metadata": database_meta} 

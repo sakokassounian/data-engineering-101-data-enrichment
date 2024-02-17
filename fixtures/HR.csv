@@ -1,99 +1,99 @@
-"Enrollment date","Date of Birth","Passport id","email","Student.ID","Student.First Name","Student.Last Name","Seniortiy Description","Major="
-"2012-OCT-10","08/08/94","F193I898722","RefatNatali@sk.edu.pl","O69K36F35N","Refat","Natali","Freshman","Civil Engineering"
-"2012-OCT-24","14/06/94","G213H6876","AriannaKim@sk.edu.pl","S67Y79P97N","Arianna","Kim","Sophmore","Civil Engineering"
-"2014-OCT-7","03/05/93","E122C7613","IngeBego@sk.edu.pl","N95Q83K66L","Inge","Bego","Senior","Chemical Engineering"
-"2014-OCT-25","27/11/95","E236I5047","AlushBauyrzhan@sk.edu.pl","F23F98R36E","Alush","Bauyrzhan","Sophmore","Computer Science"
-"2013-OCT-2","28/12/93","I119I9824","Luo+PingPalbo@sk.edu.pl","X84A95B48H","Luo+Ping","Palbo","Sophmore","Civil Engineering"
-"2013-OCT-27","06/01/93","I206A9659","DangHansine@sk.edu.pl","B88W98U98H","Dang","Hansine","Freshman","Mechanical Engineering"
-"2014-OCT-10","07/05/94","A114C7641","SanaaShu+Zhe@sk.edu.pl","N11E77H23W","Sanaa","Shu+Zhe","Freshman","Mechanical Engineering"
-"2014-OCT-21","27/01/95","E300H7502","PrimianoPatricio@sk.edu.pl","T99V54P45S","Primiano","Patricio","Senior","Biology"
-"2014-OCT-11","19/12/93","G219F9309","EskarneOzren@sk.edu.pl","L76U91Q56O","Eskarne","Ozren","Freshman","Biology"
-"2014-OCT-24","16/07/94","C195F5934","FriedlindSnævar@sk.edu.pl","N95K98P24K","Friedlind","Snævar","Sophmore","Environmental Science"
-"2012-OCT-9","26/10/93","F242E6691","SilvieKalo@sk.edu.pl","L39J89K80A","Silvie","Kalo","Freshman","Mathematics"
-"2013-OCT-9","06/02/94","D195D9493","Chuan+YuImpress@sk.edu.pl","U30F35G12E","Chuan+Yu","Impress","Sophmore","Mechanical Engineering"
-"2014-OCT-3","07/02/94","A286D8586","BoykaTed@sk.edu.pl","O81P95Z33D","Boyka","Ted","Freshman","Computer Science"
-"2013-OCT-13","05/04/95","G226B9008","Mei+ChiMing+Qiang@sk.edu.pl","O44Y33W72F","Mei+Chi","Ming+Qiang","Freshman","Chemical Engineering"
-"2013-OCT-16","20/10/93","G158I8053","LaciAlastair@sk.edu.pl","L75Y10U21O","Laci","Alastair","Senior","Mathematics"
-"2014-OCT-4","16/08/95","D172B8726","FolmineTei@sk.edu.pl","N41U97V40B","Folmine","Tei","Freshman","Physics"
-"2012-OCT-5","25/07/95","D292E6677","HeijeTian+Bao@sk.edu.pl","A88D98J23Z","Heije","Tian+Bao","Freshman","Civil Engineering"
-"2014-OCT-23","10/06/93","B107F9561","JocelinTeo@sk.edu.pl","X15R75W15M","Jocelin","Teo","Sophmore","Civil Engineering"
-"2014-OCT-7","27/10/94","D142I7007","AdolpheBoriss@sk.edu.pl","A32J48B87E","Adolphe","Boriss","Senior","Chemical Engineering"
-"2013-OCT-17","23/03/95","C125F7640","AmitavaQuang@sk.edu.pl","G22T75G72T","Amitava","Quang","Sophmore","Biology"
-"2012-OCT-2","01/11/93","H203E7861","Kun+LinRandi@sk.edu.pl","X66T37Y38A","Kun+Lin","Randi","Freshman","Physics"
-"2012-OCT-22","16/08/93","E198F5067","MakhmudSimbad@sk.edu.pl","S11F12B48D","Makhmud","Simbad","Sophmore","Physics"
-"2014 | OCTOBER | 4","17/08/93","I229G8627","IhnoEkke@sk.edu.pl","H52N33P76Z","Ihno","Ekke","Freshman","Physics"
-"2012 | OCTOBER | 25","16/07/95","D161I6944","Ai+WeiMusli@sk.edu.pl","Y64Z79C83L","Ai+Wei","Musli","Senior","Civil Engineering"
-"2015 | OCTOBER | 3","20/03/93","E168A8556","ChristwardDorel@sk.edu.pl","C59Q96J74F","Christward","Dorel","Senior","Mechanical Engineering"
-"2015 | OCTOBER | 24","15/10/94","G237G5382","EwardSmaragda@sk.edu.pl","C62O81D11Y","Eward","Smaragda","Freshman","Computer Science"
-"2012 | OCTOBER | 10","19/10/95","B245H5168","RowdyJin+Cun@sk.edu.pl","N80M43W32B","Rowdy","Jin+Cun","Freshman","Chemical Engineering"
-"2015 | OCTOBER | 21","03/07/93","G222G8347","MarileeNoemi@sk.edu.pl","S85H92U16R","Marilee","Noemi","Sophmore","Biochemistry"
-"2014 | OCTOBER | 4","27/12/94","C277F5942","LupitaRui+Chun@sk.edu.pl","M61K98C62H","Lupita","Rui+Chun","Freshman","Biology"
-"2013 | OCTOBER | 11","25/11/94","F296I6318","SibeAlptu@sk.edu.pl","V97J99X31P","Sibe","Alptu","Sophmore","Mathematics"
-"2013 | OCTOBER | 20","15/01/95","A165E9973","DanielleFawzi@sk.edu.pl","Y68K44O33E","Danielle","Fawzi","Freshman","Environmental Science"
-"2015 | OCTOBER | 3","02/01/93","G123C6077","StefaninoChedva@sk.edu.pl","T23W58G70E","Stefanino","Chedva","Senior","Environmental Science"
-"2012 | OCTOBER | 18","13/09/94","F202B6991","ElmarsNidaa@sk.edu.pl","K50V21E10E","Elmars","Nidaa","Freshman","Mathematics"
-"2014 | OCTOBER | 19","01/04/94","D174I8785","CarmenaHew@sk.edu.pl","G49U46T66D","Carmena","Hew","Freshman","Physics"
-"2013 | OCTOBER | 24","28/09/94","F188G6883","MititFriedo@sk.edu.pl","E34U91R39W","Mitit","Friedo","Sophmore","Mathematics"
-"2014 | OCTOBER | 7","09/06/95","B207I9427","LeneKam Ming@sk.edu.pl","A38U71K78K","Lene","Kam Ming","Freshman","Chemical Engineering"
-"2012 | OCTOBER | 24","06/05/93","A158E6453","BengüsuMaral@sk.edu.pl","K33F51P59O","Bengüsu","Maral","Senior","Computer Science"
-"2015 | OCTOBER | 14","24/04/93","G236C7367","HenrianeMagomed@sk.edu.pl","N46D16J18G","Henriane","Magomed","Sophmore","Chemical Engineering"
-"2014 | OCTOBER | 10","18/03/94","G240A8482","NadhimFlorenzo@sk.edu.pl","Z75S49G13B","Nadhim","Florenzo","Freshman","Chemical Engineering"
-"2015 | OCTOBER | 24","09/06/93","H268D7080","Su+ChenElve@sk.edu.pl","K42B47E15J","Su+Chen","Elve","Freshman","Electrical Engineering"
-"2015 | OCTOBER | 10","05/06/94","F234E8194","GochaNeliha@sk.edu.pl","K71W26G93K","Gocha","Neliha","Senior","Electrical Engineering"
-"2012 | OCTOBER | 5","24/08/93","E136A5306","BardhaSivananthan@sk.edu.pl","T59B12O88F","Bardha","Sivananthan","Sophmore","Civil Engineering"
-"2014 | OCTOBER | 16","15/10/94","C240H8031","AldiKatrina@sk.edu.pl","Q18O55Q96V","Aldi","Katrina","Freshman","Environmental Science"
-"2014 | OCTOBER | 26","24/03/94","I193G8321","ReelikaAljoscha@sk.edu.pl","Y86O13W75T","Reelika","Aljoscha","Freshman","Environmental Science"
-"2012 | OCTOBER | 21","27/06/94","C259B9895","AlyaGert@sk.edu.pl","X25F16F10D","Alya","Gert","Sophmore","Physics"
-"2015 | OCTOBER | 25","08/10/94","C140A6549","EngelbertaArtan@sk.edu.pl","L69B86K78X","Engelberta","Artan","Sophmore","Mechanical Engineering"
-"2015 | OCTOBER | 13","19/09/95","F291D7684","Kyung+JaRitsa@sk.edu.pl","E39H97B79U","Kyung+Ja","Ritsa","Sophmore","Biology"
-"2014 | OCTOBER | 18","11/02/93","C248B6905","CristóvãoAdolf@sk.edu.pl","Z19Q55R87P","Cristóvão","Adolf","Freshman","Mathematics"
-"2015 | OCTOBER | 18","16/02/93","E222C5387","MaksymAlexej@sk.edu.pl","C41L29D24E","Maksym","Alexej","Freshman","Biochemistry"
-"2013 | OCTOBER | 26","05/02/93","A203C8503","MamtaBirtha@sk.edu.pl","R74V21Y94X","Mamta","Birtha","Freshman","Electrical Engineering"
-"2012 | OCTOBER | 12","11/05/93","D282H5926","QuFranka@sk.edu.pl","D80G71U81E","Qu","Franka","Sophmore","Chemical Engineering"
-"2015 | OCTOBER | 10","16/01/93","A181A7261","SantinoJennita@sk.edu.pl","T73K40M57H","Santino","Jennita","Freshman","Environmental Science"
-"2014 | OCTOBER | 7","11/04/93","A107E7669","MuhteremQing Jian@sk.edu.pl","H81O65A56M","Muhterem","Qing Jian","Senior","Computer Science"
-"2014 | OCTOBER | 3","13/01/93","C180A9432","QuintusIgnaz@sk.edu.pl","C55S29L24Z","Quintus","Ignaz","Sophmore","Mechanical Engineering"
-"2015 | OCTOBER | 12","06/12/93","H258I5775","OctavieanSheval@sk.edu.pl","X80M28O77L","Octaviean","Sheval","Senior","Chemical Engineering"
-"2014 | OCTOBER | 1","27/10/93","H207F8884","BiggiHafren@sk.edu.pl","S72O94F66J","Biggi","Hafren","Sophmore","Computer Science"
-"2015 | OCTOBER | 22","12/10/93","C202C5654","Dong+HwaBeschir@sk.edu.pl","Y94W38N25J","Dong+Hwa","Beschir","Senior","Electrical Engineering"
-"2015 | OCTOBER | 21","14/11/93","H214E7302","AlexandrosMalakeh@sk.edu.pl","A30W79B50M","Alexandros","Malakeh","Senior","Biology"
-"2013 | OCTOBER | 25","17/08/95","E194D7104","Pei+MingTian+Tian@sk.edu.pl","P58R19S32U","Pei+Ming","Tian+Tian","Senior","Mechanical Engineering"
-"2015 | OCTOBER | 11","15/11/93","D288G5298","DurkMariliza@sk.edu.pl","M19B87Z20V","Durk","Mariliza","Freshman","Chemical Engineering"
-"2013 | OCTOBER | 10","03/07/93","F212E6749","EuniceSo Hwan@sk.edu.pl","Z84Y31Z35Q","Eunice","So Hwan","Sophmore","Mathematics"
-"2012 | OCTOBER | 2","21/08/93","I113A7725","EdelmutBobi@sk.edu.pl","E71P34J57U","Edelmut","Bobi","Freshman","Chemical Engineering"
-"2015 | OCTOBER | 14","14/05/93","B105I7772","PetjaCesar@sk.edu.pl","U96B32G10C","Petja","Cesar","Sophmore","Biology"
-"2013 | OCTOBER | 2","22/01/94","F237I6757","FachtnaSeo@sk.edu.pl","J85O89G46H","Fachtna","Seo","Freshman","Mechanical Engineering"
-"2015 | OCTOBER | 18","27/09/94","H238H6612","FiorelloAntu@sk.edu.pl","F29F90D95Y","Fiorello","Antu","Sophmore","Chemical Engineering"
-"2015 | OCTOBER | 13","22/02/94","H227I5821","TreaSilvestre@sk.edu.pl","P42Z82R30J","Trea","Silvestre","Sophmore","Biochemistry"
-"2014 | OCTOBER | 9","27/10/94","B294H5722","ArnholdMaisy@sk.edu.pl","L13K89E13M","Arnhold","Maisy","Freshman","Civil Engineering"
-"2013 | OCTOBER | 8","27/11/93","C233B7199","TifanieSamira@sk.edu.pl","O43D42W31Y","Tifanie","Samira","Freshman","Physics"
-"2013 | OCTOBER | 8","04/05/94","H292E6722","Shi+LiangMagnþóra@sk.edu.pl","Z97G71Y84S","Shi+Liang","Magnþóra","Sophmore","Biochemistry"
-"2015 | OCTOBER | 4","25/03/94","E175A7258","CecaAdama@sk.edu.pl","C68J19X65S","Ceca","Adama","Senior","Biochemistry"
-"2013 | OCTOBER | 7","23/01/93","G263C6339","SoumiaGligorije@sk.edu.pl","E24X91N73C","Soumia","Gligorije","Senior","Environmental Science"
-"2012 | OCTOBER | 6","24/12/94","C236F6011","Chien+MinIrfan@sk.edu.pl","F24U56Y56Y","Chien+Min","Irfan","Freshman","Biology"
-"2013 | OCTOBER | 26","08/01/95","G138E8700","MargeirSmajo@sk.edu.pl","S34B64X40R","Margeir","Smajo","Senior","Environmental Science"
-"2013 | OCTOBER | 23","24/07/94","H144H6224","PoseidonStojko@sk.edu.pl","Q22Z40C47T","Poseidon","Stojko","Senior","Biology"
-"2013 | OCTOBER | 4","04/11/94","D182D6438","DicoAty@sk.edu.pl","C12H55W58M","Dico","Aty","Sophmore","Computer Science"
-"2015 | OCTOBER | 17","28/09/93","D176B7482","AselKaden@sk.edu.pl","A23J68Q95Z","Asel","Kaden","Senior","Mathematics"
-"2015 | OCTOBER | 10","12/12/94","A116A5949","ThelmaDan+Ling@sk.edu.pl","E99W73Y46N","Thelma","Dan+Ling","Senior","Biochemistry"
-"2015 | OCTOBER | 16","26/06/95","D114D5052","AlysaCarline@sk.edu.pl","N16E91G49J","Alysa","Carline","Senior","Chemical Engineering"
-"2012 | OCTOBER | 14","07/04/93","G194I7411","LeriHalida@sk.edu.pl","G38B13O78Q","Leri","Halida","Sophmore","Chemical Engineering"
-"2013 | OCTOBER | 17","01/11/93","B103D5597","KatiGerd@sk.edu.pl","K87X34O34F","Kati","Gerd","Sophmore","Mechanical Engineering"
-"2013 | OCTOBER | 27","14/03/95","H252B7358","Song YuRedon@sk.edu.pl","V95B90D13H","Song Yu","Redon","Sophmore","Physics"
-"2013 | OCTOBER | 18","06/08/94","I178D9035","GuilainHlver@sk.edu.pl","N48U80S91K","Guilain","Hlver","Freshman","Mathematics"
-"2012 | OCTOBER | 2","07/04/93","A135H7268","Li XiaAlexina@sk.edu.pl","W83C28W43D","Li Xia","Alexina","Freshman","Biology"
-"2013 | OCTOBER | 21","13/07/94","I224H7974","ValdemaraAnicette@sk.edu.pl","Z77O99Y48B","Valdemara","Anicette","Freshman","Computer Science"
-"2012 | OCTOBER | 12","17/09/94","G288H6343","TsubasaErbil@sk.edu.pl","Y49Y11T74M","Tsubasa","Erbil","Freshman","Physics"
-"2015 | OCTOBER | 10","16/04/93","D144I7429","KenanLina@sk.edu.pl","Z24D47P30W","Kenan","Lina","Sophmore","Biology"
-"2015 | OCTOBER | 10","14/05/95","D230D9202","Ming+TaoRoelofke@sk.edu.pl","E26O94Y41U","Ming+Tao","Roelofke","Sophmore","Biology"
-"2012 | OCTOBER | 6","04/07/95","C134B8514","FerasNiv@sk.edu.pl","F74B39J14J","Feras","Niv","Senior","Civil Engineering"
-"2015 | OCTOBER | 15","10/12/95","E277A9345","ÍnaAmédé@sk.edu.pl","U43X69O71Q","Ína","Amédé","Freshman","Mathematics"
-"2015 | OCTOBER | 15","13/09/95","B165I8646","BoshkoBalduino@sk.edu.pl","A26D49U61M","Boshko","Balduino","Sophmore","Computer Science"
-"2015 | OCTOBER | 16","18/11/93","E282F5666","StiinaEverbert@sk.edu.pl","P33F76U19D","Stiina","Everbert","Sophmore","Mechanical Engineering"
-"2014 | OCTOBER | 18","27/11/93","C250I7739","GwerfylRémi@sk.edu.pl","T79Z89V20O","Gwerfyl","Rémi","Senior","Mathematics"
-"2015 | OCTOBER | 11","24/11/94","I148F8499","DorittaDora@sk.edu.pl","V56E38U67E","Doritta","Dora","Sophmore","Biochemistry"
-"2013 | OCTOBER | 5","28/11/95","I161H6029","TriniDong+Keun@sk.edu.pl","V42V13R33C","Trini","Dong+Keun","Senior","Civil Engineering"
-"2015 | OCTOBER | 14","28/03/93","B205A8589","LoviseJi+Kui@sk.edu.pl","A40E12X76K","Lovise","Ji+Kui","Sophmore","Computer Science"
-"2012 | OCTOBER | 27","27/03/95","H104H6344","IshildeJalldëz@sk.edu.pl","F96U81D87W","Ishilde","Jalldëz","Freshman","Civil Engineering"
-"2015 | OCTOBER | 10","17/06/93","I212A5244","JoselyneGodi@sk.edu.pl","G16E29S55N","Joselyne","Godi","Freshman","Biochemistry"
-"2015 | OCTOBER | 12","16/02/95","C161A7431","LyndiMuamir@sk.edu.pl","D34Q23Q41L","Lyndi","Muamir","Sophmore","Biology"
+"Enrollment date","Date of Birth","Passport id","email","Student.ID","Student.First Name","Student.Last Name","Seniortiy Description","Major=","scholarship"
+"2012-OCT-10","08/08/94","F193I898722","RefatNatali@sk.edu.pl","O69K36F35N","Refat","Natali","Freshman","Civil Engineering",0
+"2012-OCT-24","14/06/94","G213H6876","AriannaKim@sk.edu.pl","S67Y79P97N","Arianna","Kim","Sophmore","Civil Engineering",0
+"2014-OCT-7","03/05/93","E122C7613","IngeBego@sk.edu.pl","N95Q83K66L","Inge","Bego","Senior","Chemical Engineering",0
+"2014-OCT-25","27/11/95","E236I5047","AlushBauyrzhan@sk.edu.pl","F23F98R36E","Alush","Bauyrzhan","Sophmore","Computer Science",0
+"2013-OCT-2","28/12/93","I119I9824","Luo+PingPalbo@sk.edu.pl","X84A95B48H","Luo+Ping","Palbo","Sophmore","Civil Engineering",1
+"2013-OCT-27","06/01/93","I206A9659","DangHansine@sk.edu.pl","B88W98U98H","Dang","Hansine","Freshman","Mechanical Engineering",0
+"2014-OCT-10","07/05/94","A114C7641","SanaaShu+Zhe@sk.edu.pl","N11E77H23W","Sanaa","Shu+Zhe","Freshman","Mechanical Engineering",0
+"2014-OCT-21","27/01/95","E300H7502","PrimianoPatricio@sk.edu.pl","T99V54P45S","Primiano","Patricio","Senior","Biology",0
+"2014-OCT-11","19/12/93","G219F9309","EskarneOzren@sk.edu.pl","L76U91Q56O","Eskarne","Ozren","Freshman","Biology",0
+"2014-OCT-24","16/07/94","C195F5934","FriedlindSnævar@sk.edu.pl","N95K98P24K","Friedlind","Snævar","Sophmore","Environmental Science",0
+"2012-OCT-9","26/10/93","F242E6691","SilvieKalo@sk.edu.pl","L39J89K80A","Silvie","Kalo","Freshman","Mathematics",0
+"2013-OCT-9","06/02/94","D195D9493","Chuan+YuImpress@sk.edu.pl","U30F35G12E","Chuan+Yu","Impress","Sophmore","Mechanical Engineering",0
+"2014-OCT-3","07/02/94","A286D8586","BoykaTed@sk.edu.pl","O81P95Z33D","Boyka","Ted","Freshman","Computer Science",0
+"2013-OCT-13","05/04/95","G226B9008","Mei+ChiMing+Qiang@sk.edu.pl","O44Y33W72F","Mei+Chi","Ming+Qiang","Freshman","Chemical Engineering",0
+"2013-OCT-16","20/10/93","G158I8053","LaciAlastair@sk.edu.pl","L75Y10U21O","Laci","Alastair","Senior","Mathematics",0
+"2014-OCT-4","16/08/95","D172B8726","FolmineTei@sk.edu.pl","N41U97V40B","Folmine","Tei","Freshman","Physics",0
+"2012-OCT-5","25/07/95","D292E6677","HeijeTian+Bao@sk.edu.pl","A88D98J23Z","Heije","Tian+Bao","Freshman","Civil Engineering",0
+"2014-OCT-23","10/06/93","B107F9561","JocelinTeo@sk.edu.pl","X15R75W15M","Jocelin","Teo","Sophmore","Civil Engineering",0
+"2014-OCT-7","27/10/94","D142I7007","AdolpheBoriss@sk.edu.pl","A32J48B87E","Adolphe","Boriss","Senior","Chemical Engineering",0
+"2013-OCT-17","23/03/95","C125F7640","AmitavaQuang@sk.edu.pl","G22T75G72T","Amitava","Quang","Sophmore","Biology",0
+"2012-OCT-2","01/11/93","H203E7861","Kun+LinRandi@sk.edu.pl","X66T37Y38A","Kun+Lin","Randi","Freshman","Physics",0
+"2012-OCT-22","16/08/93","E198F5067","MakhmudSimbad@sk.edu.pl","S11F12B48D","Makhmud","Simbad","Sophmore","Physics",0
+"2014 | OCTOBER | 4","17/08/93","I229G8627","IhnoEkke@sk.edu.pl","H52N33P76Z","Ihno","Ekke","Freshman","Physics",0
+"2012 | OCTOBER | 25","16/07/95","D161I6944","Ai+WeiMusli@sk.edu.pl","Y64Z79C83L","Ai+Wei","Musli","Senior","Civil Engineering",1
+"2015 | OCTOBER | 3","20/03/93","E168A8556","ChristwardDorel@sk.edu.pl","C59Q96J74F","Christward","Dorel","Senior","Mechanical Engineering",0
+"2015 | OCTOBER | 24","15/10/94","G237G5382","EwardSmaragda@sk.edu.pl","C62O81D11Y","Eward","Smaragda","Freshman","Computer Science",0
+"2012 | OCTOBER | 10","19/10/95","B245H5168","RowdyJin+Cun@sk.edu.pl","N80M43W32B","Rowdy","Jin+Cun","Freshman","Chemical Engineering",0
+"2015 | OCTOBER | 21","03/07/93","G222G8347","MarileeNoemi@sk.edu.pl","S85H92U16R","Marilee","Noemi","Sophmore","Biochemistry",0
+"2014 | OCTOBER | 4","27/12/94","C277F5942","LupitaRui+Chun@sk.edu.pl","M61K98C62H","Lupita","Rui+Chun","Freshman","Biology",0
+"2013 | OCTOBER | 11","25/11/94","F296I6318","SibeAlptu@sk.edu.pl","V97J99X31P","Sibe","Alptu","Sophmore","Mathematics",0
+"2013 | OCTOBER | 20","15/01/95","A165E9973","DanielleFawzi@sk.edu.pl","Y68K44O33E","Danielle","Fawzi","Freshman","Environmental Science",1
+"2015 | OCTOBER | 3","02/01/93","G123C6077","StefaninoChedva@sk.edu.pl","T23W58G70E","Stefanino","Chedva","Senior","Environmental Science",0
+"2012 | OCTOBER | 18","13/09/94","F202B6991","ElmarsNidaa@sk.edu.pl","K50V21E10E","Elmars","Nidaa","Freshman","Mathematics",0
+"2014 | OCTOBER | 19","01/04/94","D174I8785","CarmenaHew@sk.edu.pl","G49U46T66D","Carmena","Hew","Freshman","Physics",0
+"2013 | OCTOBER | 24","28/09/94","F188G6883","MititFriedo@sk.edu.pl","E34U91R39W","Mitit","Friedo","Sophmore","Mathematics",0
+"2014 | OCTOBER | 7","09/06/95","B207I9427","LeneKam Ming@sk.edu.pl","A38U71K78K","Lene","Kam Ming","Freshman","Chemical Engineering",0
+"2012 | OCTOBER | 24","06/05/93","A158E6453","BengüsuMaral@sk.edu.pl","K33F51P59O","Bengüsu","Maral","Senior","Computer Science",0
+"2015 | OCTOBER | 14","24/04/93","G236C7367","HenrianeMagomed@sk.edu.pl","N46D16J18G","Henriane","Magomed","Sophmore","Chemical Engineering",0
+"2014 | OCTOBER | 10","18/03/94","G240A8482","NadhimFlorenzo@sk.edu.pl","Z75S49G13B","Nadhim","Florenzo","Freshman","Chemical Engineering",0
+"2015 | OCTOBER | 24","09/06/93","H268D7080","Su+ChenElve@sk.edu.pl","K42B47E15J","Su+Chen","Elve","Freshman","Electrical Engineering",0
+"2015 | OCTOBER | 10","05/06/94","F234E8194","GochaNeliha@sk.edu.pl","K71W26G93K","Gocha","Neliha","Senior","Electrical Engineering",0
+"2012 | OCTOBER | 5","24/08/93","E136A5306","BardhaSivananthan@sk.edu.pl","T59B12O88F","Bardha","Sivananthan","Sophmore","Civil Engineering",0
+"2014 | OCTOBER | 16","15/10/94","C240H8031","AldiKatrina@sk.edu.pl","Q18O55Q96V","Aldi","Katrina","Freshman","Environmental Science",0
+"2014 | OCTOBER | 26","24/03/94","I193G8321","ReelikaAljoscha@sk.edu.pl","Y86O13W75T","Reelika","Aljoscha","Freshman","Environmental Science",0
+"2012 | OCTOBER | 21","27/06/94","C259B9895","AlyaGert@sk.edu.pl","X25F16F10D","Alya","Gert","Sophmore","Physics",0
+"2015 | OCTOBER | 25","08/10/94","C140A6549","EngelbertaArtan@sk.edu.pl","L69B86K78X","Engelberta","Artan","Sophmore","Mechanical Engineering",0
+"2015 | OCTOBER | 13","19/09/95","F291D7684","Kyung+JaRitsa@sk.edu.pl","E39H97B79U","Kyung+Ja","Ritsa","Sophmore","Biology",0
+"2014 | OCTOBER | 18","11/02/93","C248B6905","CristóvãoAdolf@sk.edu.pl","Z19Q55R87P","Cristóvão","Adolf","Freshman","Mathematics",0
+"2015 | OCTOBER | 18","16/02/93","E222C5387","MaksymAlexej@sk.edu.pl","C41L29D24E","Maksym","Alexej","Freshman","Biochemistry",0
+"2013 | OCTOBER | 26","05/02/93","A203C8503","MamtaBirtha@sk.edu.pl","R74V21Y94X","Mamta","Birtha","Freshman","Electrical Engineering",0
+"2012 | OCTOBER | 12","11/05/93","D282H5926","QuFranka@sk.edu.pl","D80G71U81E","Qu","Franka","Sophmore","Chemical Engineering",0
+"2015 | OCTOBER | 10","16/01/93","A181A7261","SantinoJennita@sk.edu.pl","T73K40M57H","Santino","Jennita","Freshman","Environmental Science",0
+"2014 | OCTOBER | 7","11/04/93","A107E7669","MuhteremQing Jian@sk.edu.pl","H81O65A56M","Muhterem","Qing Jian","Senior","Computer Science",0
+"2014 | OCTOBER | 3","13/01/93","C180A9432","QuintusIgnaz@sk.edu.pl","C55S29L24Z","Quintus","Ignaz","Sophmore","Mechanical Engineering",0
+"2015 | OCTOBER | 12","06/12/93","H258I5775","OctavieanSheval@sk.edu.pl","X80M28O77L","Octaviean","Sheval","Senior","Chemical Engineering",0
+"2014 | OCTOBER | 1","27/10/93","H207F8884","BiggiHafren@sk.edu.pl","S72O94F66J","Biggi","Hafren","Sophmore","Computer Science",0
+"2015 | OCTOBER | 22","12/10/93","C202C5654","Dong+HwaBeschir@sk.edu.pl","Y94W38N25J","Dong+Hwa","Beschir","Senior","Electrical Engineering",0
+"2015 | OCTOBER | 21","14/11/93","H214E7302","AlexandrosMalakeh@sk.edu.pl","A30W79B50M","Alexandros","Malakeh","Senior","Biology",0
+"2013 | OCTOBER | 25","17/08/95","E194D7104","Pei+MingTian+Tian@sk.edu.pl","P58R19S32U","Pei+Ming","Tian+Tian","Senior","Mechanical Engineering",0
+"2015 | OCTOBER | 11","15/11/93","D288G5298","DurkMariliza@sk.edu.pl","M19B87Z20V","Durk","Mariliza","Freshman","Chemical Engineering",0
+"2013 | OCTOBER | 10","03/07/93","F212E6749","EuniceSo Hwan@sk.edu.pl","Z84Y31Z35Q","Eunice","So Hwan","Sophmore","Mathematics",1
+"2012 | OCTOBER | 2","21/08/93","I113A7725","EdelmutBobi@sk.edu.pl","E71P34J57U","Edelmut","Bobi","Freshman","Chemical Engineering",0
+"2015 | OCTOBER | 14","14/05/93","B105I7772","PetjaCesar@sk.edu.pl","U96B32G10C","Petja","Cesar","Sophmore","Biology",0
+"2013 | OCTOBER | 2","22/01/94","F237I6757","FachtnaSeo@sk.edu.pl","J85O89G46H","Fachtna","Seo","Freshman","Mechanical Engineering",0
+"2015 | OCTOBER | 18","27/09/94","H238H6612","FiorelloAntu@sk.edu.pl","F29F90D95Y","Fiorello","Antu","Sophmore","Chemical Engineering",0
+"2015 | OCTOBER | 13","22/02/94","H227I5821","TreaSilvestre@sk.edu.pl","P42Z82R30J","Trea","Silvestre","Sophmore","Biochemistry",0
+"2014 | OCTOBER | 9","27/10/94","B294H5722","ArnholdMaisy@sk.edu.pl","L13K89E13M","Arnhold","Maisy","Freshman","Civil Engineering",0
+"2013 | OCTOBER | 8","27/11/93","C233B7199","TifanieSamira@sk.edu.pl","O43D42W31Y","Tifanie","Samira","Freshman","Physics",0
+"2013 | OCTOBER | 8","04/05/94","H292E6722","Shi+LiangMagnþóra@sk.edu.pl","Z97G71Y84S","Shi+Liang","Magnþóra","Sophmore","Biochemistry",1
+"2015 | OCTOBER | 4","25/03/94","E175A7258","CecaAdama@sk.edu.pl","C68J19X65S","Ceca","Adama","Senior","Biochemistry",0
+"2013 | OCTOBER | 7","23/01/93","G263C6339","SoumiaGligorije@sk.edu.pl","E24X91N73C","Soumia","Gligorije","Senior","Environmental Science",0
+"2012 | OCTOBER | 6","24/12/94","C236F6011","Chien+MinIrfan@sk.edu.pl","F24U56Y56Y","Chien+Min","Irfan","Freshman","Biology",0
+"2013 | OCTOBER | 26","08/01/95","G138E8700","MargeirSmajo@sk.edu.pl","S34B64X40R","Margeir","Smajo","Senior","Environmental Science",0
+"2013 | OCTOBER | 23","24/07/94","H144H6224","PoseidonStojko@sk.edu.pl","Q22Z40C47T","Poseidon","Stojko","Senior","Biology",0
+"2013 | OCTOBER | 4","04/11/94","D182D6438","DicoAty@sk.edu.pl","C12H55W58M","Dico","Aty","Sophmore","Computer Science",0
+"2015 | OCTOBER | 17","28/09/93","D176B7482","AselKaden@sk.edu.pl","A23J68Q95Z","Asel","Kaden","Senior","Mathematics",0
+"2015 | OCTOBER | 10","12/12/94","A116A5949","ThelmaDan+Ling@sk.edu.pl","E99W73Y46N","Thelma","Dan+Ling","Senior","Biochemistry",0
+"2015 | OCTOBER | 16","26/06/95","D114D5052","AlysaCarline@sk.edu.pl","N16E91G49J","Alysa","Carline","Senior","Chemical Engineering",0
+"2012 | OCTOBER | 14","07/04/93","G194I7411","LeriHalida@sk.edu.pl","G38B13O78Q","Leri","Halida","Sophmore","Chemical Engineering",0
+"2013 | OCTOBER | 17","01/11/93","B103D5597","KatiGerd@sk.edu.pl","K87X34O34F","Kati","Gerd","Sophmore","Mechanical Engineering",0
+"2013 | OCTOBER | 27","14/03/95","H252B7358","Song YuRedon@sk.edu.pl","V95B90D13H","Song Yu","Redon","Sophmore","Physics",0
+"2013 | OCTOBER | 18","06/08/94","I178D9035","GuilainHlver@sk.edu.pl","N48U80S91K","Guilain","Hlver","Freshman","Mathematics",0
+"2012 | OCTOBER | 2","07/04/93","A135H7268","Li XiaAlexina@sk.edu.pl","W83C28W43D","Li Xia","Alexina","Freshman","Biology",0
+"2013 | OCTOBER | 21","13/07/94","I224H7974","ValdemaraAnicette@sk.edu.pl","Z77O99Y48B","Valdemara","Anicette","Freshman","Computer Science",0
+"2012 | OCTOBER | 12","17/09/94","G288H6343","TsubasaErbil@sk.edu.pl","Y49Y11T74M","Tsubasa","Erbil","Freshman","Physics",1
+"2015 | OCTOBER | 10","16/04/93","D144I7429","KenanLina@sk.edu.pl","Z24D47P30W","Kenan","Lina","Sophmore","Biology",0
+"2015 | OCTOBER | 10","14/05/95","D230D9202","Ming+TaoRoelofke@sk.edu.pl","E26O94Y41U","Ming+Tao","Roelofke","Sophmore","Biology",0
+"2012 | OCTOBER | 6","04/07/95","C134B8514","FerasNiv@sk.edu.pl","F74B39J14J","Feras","Niv","Senior","Civil Engineering",0
+"2015 | OCTOBER | 15","10/12/95","E277A9345","ÍnaAmédé@sk.edu.pl","U43X69O71Q","Ína","Amédé","Freshman","Mathematics",0
+"2015 | OCTOBER | 15","13/09/95","B165I8646","BoshkoBalduino@sk.edu.pl","A26D49U61M","Boshko","Balduino","Sophmore","Computer Science",0
+"2015 | OCTOBER | 16","18/11/93","E282F5666","StiinaEverbert@sk.edu.pl","P33F76U19D","Stiina","Everbert","Sophmore","Mechanical Engineering",0
+"2014 | OCTOBER | 18","27/11/93","C250I7739","GwerfylRémi@sk.edu.pl","T79Z89V20O","Gwerfyl","Rémi","Senior","Mathematics",0
+"2015 | OCTOBER | 11","24/11/94","I148F8499","DorittaDora@sk.edu.pl","V56E38U67E","Doritta","Dora","Sophmore","Biochemistry",0
+"2013 | OCTOBER | 5","28/11/95","I161H6029","TriniDong+Keun@sk.edu.pl","V42V13R33C","Trini","Dong+Keun","Senior","Civil Engineering",0
+"2015 | OCTOBER | 14","28/03/93","B205A8589","LoviseJi+Kui@sk.edu.pl","A40E12X76K","Lovise","Ji+Kui","Sophmore","Computer Science",0
+"2012 | OCTOBER | 27","27/03/95","H104H6344","IshildeJalldëz@sk.edu.pl","F96U81D87W","Ishilde","Jalldëz","Freshman","Civil Engineering",0
+"2015 | OCTOBER | 10","17/06/93","I212A5244","JoselyneGodi@sk.edu.pl","G16E29S55N","Joselyne","Godi","Freshman","Biochemistry",0
+"2015 | OCTOBER | 12","16/02/95","C161A7431","LyndiMuamir@sk.edu.pl","D34Q23Q41L","Lyndi","Muamir","Sophmore","Biology",0
